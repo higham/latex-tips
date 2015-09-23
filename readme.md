@@ -1,7 +1,7 @@
 LaTeX Tips
 ===========
 
-A document aimed at relatively new $\LaTeX$ users, giving tips on
+A document aimed at relatively new LaTeX users, giving tips on
 how to avoid making common errors.
 
 Contents
